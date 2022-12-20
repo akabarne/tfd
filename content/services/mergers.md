@@ -9,48 +9,22 @@ heroSubHeading: 'Gemeinsam ein Konzept entwickeln'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Bei der Planung eines Konzepts steht für uns die Zusammenarbeit im Vordergrund. Wir richten uns nach Ihren Vorstellungen und Wünschen, um ein Konzept zu erarbeiten, dass Sie vollends zufrieden stellt.
 
-## Ne verba patulosque numen vix libet
+## Wie läuft das ab?
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+1. Die zu gestaltende Wand wird von unseren Writern zu einem vereinbartem Termin besichtigt. Hier teilen Sie uns Ihre Wünsche und Designvorstellungen mit.
+2. Als nächstes erarbeitet unser Team einen ersten Entwurf, den wir Ihnen per Email zukommen lassen.
+3. Sie teilen uns mit, ob Sie zufrieden mit dem Entwurf sind. Bei Änderungswünschen werden diese schnellstmöglichst umgesetzt.
+4. Sobald ein Konzept steht, mit dem Sie zu 100% zufrieden sind, informieren wir Sie über den Preis für die Umsetzung und anfallende Materialkosten, sowie eine Einschätzung zur Dauer der Arbeit.  
+5. Anschließend wird ein Starttermin festgelegt.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## Wie wird das Konzept aussehen?
 
-## Postquam tamen
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+1. Nachdem wir ein Bild von der zu gestaltenden Wand gemacht haben, wird es in Photoshop bearbeitet. Anschließend zeichnen unsere Writer das gewünschte Motiv. Nun kann das Motiv transparent über die zu gestaltende Wand gelegt werden. Im entstandenen Entwurf kann so genau erkannt werden, wie die Wand später aussehen wird. -- Robin fragen!!
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+ --- Beispielbild eines Konzepts von Robin ---
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
