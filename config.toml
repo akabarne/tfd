@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "Graffiti Start Up"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
@@ -12,14 +12,16 @@ theme = "hugo-hero-theme"
 [params]
   google_analytics_id=""
 
+
+
   [params.logo]
-    mobile = "images/logo-mobile.svg"
-    mobile_height = "36px"
-    mobile_width = "36px"
-    desktop = "images/logo.svg"
-    desktop_height = "29px"
-    desktop_width = "217px"
-    alt = "Hugo Hero"
+    mobile = "" #images/logo-mobile.svg
+    mobile_height = "" #36px
+    mobile_width = "" #36px
+    desktop = "" #images/logo.svg
+    desktop_height = "" #29px
+    desktop_width = ""#217px
+    alt = "hofentlich"
 
   [params.homepage_meta_tags]
     meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
