@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Graffiti Start Up"
+title = "TFD Artworks"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
@@ -35,29 +35,29 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
+	name = "Dienstleistung"
 	url = "/services/"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
+    name = "Projekte"
     url = "/work/"
     weight = 2
 
 [[menu.main]]
-    name = "About"
+    name = "Über uns"
     url = "/about/"
     weight = 3
 
 [[menu.main]]
     name = "History"
     url = "/history/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
-    name = "Contact"
+    name = "Kontakt"
     url = "/contact/"
-    weight = 4
+    weight = 5
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

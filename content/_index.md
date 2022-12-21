@@ -1,7 +1,7 @@
 ---
 title: 'Home'
 date: 2022-12-12T15:37:57+07:00
-heroHeading: 'Our Graffiti Start UP'
+heroHeading: 'TFD Artworks'
 heroSubHeading: 'bla bla subheading blabla'
 heroBackground: ''
 ---
