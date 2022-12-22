@@ -2,7 +2,7 @@
 title: 'Streetart für jeden'
 weight: 1
 background: '[comment]: <> (images/kevin-bhagat-461952-unsplash.jpg)'
-button: 'Our Work'
+button: 'Projekte'
 buttonLink: 'work'
 ---
 

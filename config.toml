@@ -59,6 +59,12 @@ theme = "hugo-hero-theme"
     url = "/contact/"
     weight = 5
 
+  [[menu.footer]]
+      name = "Impressum"
+      url = "/impressum/"
+      weight = 1
+
+
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
