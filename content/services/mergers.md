@@ -1,7 +1,7 @@
 ---
 title: 'Konzeption & Planung'
 date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-5.png'
+icon: 'services/icons8-klingelndes-telefon-80.png'
 featured: true
 draft: false
 heroHeading: 'Konzeption & Planung'

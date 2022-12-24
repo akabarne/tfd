@@ -1,7 +1,7 @@
 ---
 title: 'Korrekturen'
 date: 2018-11-28T15:14:54+10:00
-icon: 'services/service-icon-4.png'
+icon: 'services/icons8-kontroll-liste-80.png'
 featured: true
 draft: false
 heroHeading: 'Korrekturen'
