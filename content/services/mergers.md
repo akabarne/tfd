@@ -20,9 +20,7 @@ Bei der Planung eines Konzepts steht für uns die Zusammenarbeit im Vordergrund.
 4. Sobald ein Konzept steht, mit dem Sie zu 100% zufrieden sind, informieren wir Sie über den Preis für die Umsetzung und anfallende Materialkosten, sowie eine Einschätzung zur Dauer der Arbeit.  
 5. Anschließend wird ein Starttermin festgelegt.
 
-
 ## Wie wird das Konzept aussehen?
-
 
 1. Nachdem wir ein Bild von der zu gestaltenden Wand gemacht haben, wird es in Photoshop bearbeitet. Anschließend zeichnen unsere Writer das gewünschte Motiv. Nun kann das Motiv transparent über die zu gestaltende Wand gelegt werden. Im entstandenen Entwurf kann so genau erkannt werden, wie die Wand später aussehen wird. -- Robin fragen!!
 
