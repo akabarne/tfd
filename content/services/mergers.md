@@ -4,6 +4,7 @@ date: 2018-11-28T15:15:34+10:00
 icon: 'services/icons8-klingelndes-telefon-80.png'
 featured: true
 draft: false
+weight: 2
 heroHeading: 'Konzeption & Planung'
 heroSubHeading: 'Gemeinsam ein Konzept entwickeln'
 heroBackground: 'services/service2.jpg'

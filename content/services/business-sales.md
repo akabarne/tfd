@@ -3,6 +3,7 @@ title: 'Umsetzung'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/icons8-spray-80.png'
 featured: true
+weight: 3
 draft: false
 heroHeading: 'Umsetzung'
 heroSubHeading: 'Wir vereinen Qualität mit Geschwindigkeit.'

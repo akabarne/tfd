@@ -3,6 +3,7 @@ title: 'Korrekturen'
 date: 2018-11-28T15:14:54+10:00
 icon: 'services/icons8-kontroll-liste-80.png'
 featured: true
+weight: 4
 draft: false
 heroHeading: 'Korrekturen'
 heroSubHeading: 'Wir stellen sicher, dass Sie zufrieden sind'
