@@ -3,16 +3,34 @@ title: 'Impressum'
 
 heroHeading: 'TFD Artworks'
 ---
-## TFD Artworks
-### Impressum 
+## **Impressum** 
 
-1. TFD Artworks 
-2. Werner Bock 
-3. Mollstraße 12 
-4. 10178 Berlin
+Email: **tfd.artworks@gmail.com** 
 
-Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Autor, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen, sofern seitens des Autors kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt. Alle Angebote sind freibleibend und unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. 2. Verweise und Links Bei direkten oder indirekten Verweisen auf fremde Webseiten ("Hyperlinks"), die außerhalb des Verantwortungsbereiches des Autors liegen, würde eine Haftungsverpflichtung ausschließlich in dem Fall in Kraft treten, in dem der Autor von den Inhalten Kenntnis hat und es ihm technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern. Der Autor erklärt hiermit ausdrücklich, dass zum Zeitpunkt der Linksetzung keine illegalen Inhalte auf den zu verlinkenden Seiten erkennbar waren. Auf die aktuelle und zukünftige Gestaltung, die Inhalte oder die Urheberschaft der gelinkten/verknüpften Seiten hat der Autor keinerlei Einfluss. Deshalb distanziert er sich hiermit ausdrücklich von allen Inhalten aller gelinkten /verknüpften Seiten, die nach der Linksetzung verändert wurden. Diese Feststellung gilt für alle innerhalb des eigenen Internetangebotes gesetzten Links und Verweise sowie für Fremdeinträge in vom Autor eingerichteten Gästebüchern, Diskussionsforen und Mailinglisten. Für illegale, fehlerhafte oder unvollständige Inhalte und insbesondere für Schäden, die aus der Nutzung oder Nichtnutzung solcherart dargebotener Informationen entstehen, haftet allein der Anbieter der Seite, auf welche verwiesen wurde, nicht derjenige, der über Links auf die jeweilige Veröffentlichung lediglich verweist. 3. Urheber- und Kennzeichenrecht Der Autor ist bestrebt, in allen Publikationen die Urheberrechte der verwendeten Grafiken, Tondokumente, Videosequenzen und Texte zu beachten, von ihm selbst erstellte Grafiken, Tondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente, Videosequenzen und Texte zurückzugreifen. Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind! Das Copyright für veröffentlichte, vom Autor selbst erstellte Objekte bleibt allein beim Autor der Seiten. Eine Vervielfältigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung des Autors nicht gestattet.Distanzierung Mit Urteil vom 12. Mai 1998 hat das Landgericht Hamburg entschieden, dass man durch die Ausbringung eines Links die Inhalte der gelinkten Seite ggf. mit zu verantworten hat. Dies kann - so das Landgericht - nur dadurch verhindert werden, dass man sich ausdrücklich von diesen Inhalten distanziert. Ich habe auf meiner Page Links zu anderen Seiten im Internet gelegt. Für all diese Links gilt: Ich möchte ausdrücklich betonen, dass ich keinerlei Einfluss auf die Gestaltung und die Inhalte der gelinkten Seiten habe. Deshalb distanziere ich mich hiermit ausdrücklich von allen Inhalten aller gelinkten Seiten auf meiner Homepage. Diese Erklärung gilt für alle auf meiner Homepage ausgebrachten Links und für alle Inhalte der Seiten, zu denen die Banner führen.
+#### **Verantwortlich für Inhalte**
+Werner Bock
 
+#### **Verantwortlich für Layout**
+Die Webseite wurde erstellt mit Hugo, static site generator - https://github.com/zerostaticthemes/hugo-serif-theme
 
+#### **Verantwortlich für Icons**
+Beautiful royalty free Illustrations by Icons8 - https://icons8.com
 
-ICON8 Verlinken!
+#### **Haftungsausschluss**
+Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Autor, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen, sofern seitens des Autors kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt. Alle Angebote sind freibleibend und unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Bei Bekanntwerden von einer konkreten Rechtsverletzung werden wir diese Inhalte umgehend entfernen. 
+
+Die Inhalte dürfen weder ganz noch teilweise ohne schriftliche Genehmigung des Urhebers vervielfältigt und/oder veröffentlicht oder in einem Informationssystem gespeichert werden.
+
+#### **Haftungsausschluss für Links**
+Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben und wofür wir auch keine Gewähr übernehmen. Zum Zeitpunkt der Verlinkung waren keine rechtswidrigen Inhalte erkennbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen. Jeder Verweis auf die hiesigen Informationen erfolgt auf eigenes Risiko.
+
+#### **Urheberrecht**
+Wir bemühen uns, die Urheberrechte anderer zu beachten und auf selbst erstellte sowie lizensfreie Werke zurückzugreifen. Beiträge Dritter werden wir als solche kennzeichnen. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwendung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nichtkommerziellen Gebrauch gestattet.
+
+#### **Datenschutz**
+Soweit auf unseren Seiten personenbezogene Daten (Bsp. Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies stets auf freiwilliger Basis. Die Nutzung der Angebote und Dienste ist, soweit möglich, stets ohne Angabe personenbezogener Daten möglich. Werden personenbezogene Daten zur Verfügung gestellt, werden diese nur zur Beantwortung Ihrer konkreten Anfrage genutzt. Jederzeit können Sie der Speicherung und Nutzung Ihrer Daten mit Wirkung für die Zukunft widerrufen.
+
+Bei Kommunikation per E-Mail kann die vollständige Datensicherheit vom Anbieter nicht gewährleistet werden, so dass Ihnen bei vertraulichen Informationen der Postweg empfohlen wird. Der Nutzung von im Rahmen der Impressumpflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
+
+###### Letzte Änderung: 25.12.22
+###### Quelle: www.e-recht24.de
