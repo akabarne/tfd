@@ -7,7 +7,7 @@ featured: true
 weight: 5
 heroHeading: 'Workshops'
 heroSubHeading: 'Graffiti Workshops für Kinder und Jugendliche'
-heroBackground: '' # services/service2.jpg
+heroBackground: 'images/R51.jpeg' # services/service2.jpg
 ---
 
 Wir bieten abseits von Auftragsmalerei auch Workshops für Kinder und Jugendliche von 10 - 17 Jahren an. Den Kindern und Jugendlichen wird in unserem Workshop ein erster Einstieg in die Welt der Streetart geboten.

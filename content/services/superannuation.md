@@ -7,7 +7,7 @@ weight: 4
 draft: false
 heroHeading: 'Kostenlose Korrekturen'
 heroSubHeading: 'Wir stellen sicher, dass Sie zufrieden sind'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/P51.jpg'
 ---
 
 Im Fall, dass Sie unzufrieden mit dem Endergebnis sind, bieten wir kostenlose Korrekturen an (ausgeschlossen sind zusätzliche Materialkosten).Bei Bedarf werden dann zusätzliche und kostenlose Maltage inkludiert. So können wir sicherstellen, dass jeder Kunde mit unserer Arbeit glücklich ist. 

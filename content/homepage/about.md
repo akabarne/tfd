@@ -1,7 +1,7 @@
 ---
 title: 'Warum wir?'
 weight: 2
-background: ''
+background: 'images/first.jpg'
 button: 'Über uns'
 buttonLink: 'about'
 ---

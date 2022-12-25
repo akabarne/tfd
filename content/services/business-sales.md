@@ -6,8 +6,8 @@ featured: true
 weight: 3
 draft: false
 heroHeading: 'Umsetzung'
-heroSubHeading: 'Wir vereinen Qualität mit Geschwindigkeit.'
-heroBackground: 'services/first.jpg' # services/service1.jpg
+heroSubHeading: '' #Wir vereinen Qualität mit Geschwindigkeit.
+heroBackground: 'images/first.jpg' # services/service1.jpg
 ---
 
 Bei der Umsetzung des zuvor geplanten Konzepts achten unsere Writer besonders auf Zielstrebigkeit. Durch die Kombination mit Leidenschaft setzen wir Ihre Wünsche in kürzester Zeit um.

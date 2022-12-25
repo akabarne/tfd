@@ -7,7 +7,7 @@ draft: false
 weight: 2
 heroHeading: 'Konzeption & Planung'
 heroSubHeading: 'Gemeinsam ein Konzept entwickeln'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/service1.jpg' 
 ---
 
 Bei der Planung eines Konzepts steht für uns die Zusammenarbeit im Vordergrund. Wir richten uns nach Ihren Vorstellungen und Wünschen, um ein Konzept zu erarbeiten, dass Sie vollends zufrieden stellt.
