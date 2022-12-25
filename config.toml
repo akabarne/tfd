@@ -49,15 +49,11 @@ theme = "hugo-hero-theme"
     url = "/about/"
     weight = 3
 
-[[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 4
 
 [[menu.main]]
     name = "Kontakt"
     url = "/contact/"
-    weight = 5
+    weight = 4
 
   [[menu.footer]]
       name = "Impressum"
