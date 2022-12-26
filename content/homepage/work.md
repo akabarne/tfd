@@ -1,7 +1,7 @@
 ---
 title: 'Streetart für jeden'
 weight: 1
-background: 'images/test.jpg'
+background: 'images/white.jpg'
 button: 'Projekte'
 buttonLink: 'work'
 ---
