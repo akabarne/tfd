@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "de-DE"
 title = "TFD Artworks"
 themesDir = "themes"
 theme = "hugo-hero-theme"
