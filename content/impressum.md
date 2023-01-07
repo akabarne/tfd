@@ -5,17 +5,6 @@ heroHeading: 'TFD Artworks'
 ---
 # Impressum
 
-Email: **tfd.artworks@gmail.com** 
-
-## Verantwortlich für Inhalte
-Werner Bock
-
-## Verantwortlich für Layout
-Die Webseite wurde erstellt mit Hugo, static site generator - https://github.com/zerostaticthemes/hugo-serif-theme
-
-## Verantwortlich für Icons
-Beautiful royalty free Illustrations by Icons8 - https://icons8.com
-
 ## Haftungsausschluss
 Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Haftungsansprüche gegen den Autor, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen, sofern seitens des Autors kein nachweislich vorsätzliches oder grob fahrlässiges Verschulden vorliegt. Alle Angebote sind freibleibend und unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Bei Bekanntwerden von einer konkreten Rechtsverletzung werden wir diese Inhalte umgehend entfernen. 
 
@@ -31,6 +20,16 @@ Wir bemühen uns, die Urheberrechte anderer zu beachten und auf selbst erstellte
 Soweit auf unseren Seiten personenbezogene Daten (Bsp. Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies stets auf freiwilliger Basis. Die Nutzung der Angebote und Dienste ist, soweit möglich, stets ohne Angabe personenbezogener Daten möglich. Werden personenbezogene Daten zur Verfügung gestellt, werden diese nur zur Beantwortung Ihrer konkreten Anfrage genutzt. Jederzeit können Sie der Speicherung und Nutzung Ihrer Daten mit Wirkung für die Zukunft widerrufen.
 
 Bei Kommunikation per E-Mail kann die vollständige Datensicherheit vom Anbieter nicht gewährleistet werden, so dass Ihnen bei vertraulichen Informationen der Postweg empfohlen wird. Der Nutzung von im Rahmen der Impressumpflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
+
+## Verantwortlich für Inhalte
+Werner Bock
+
+## Verantwortlich für Layout
+Die Webseite wurde erstellt mit Hugo, static site generator - https://github.com/zerostaticthemes/hugo-serif-theme
+
+## Verantwortlich für Icons
+Beautiful royalty free Illustrations by Icons8 - https://icons8.com
+
 
 ###### Letzte Änderung: 25.12.22
 ###### Quelle: www.e-recht24.de

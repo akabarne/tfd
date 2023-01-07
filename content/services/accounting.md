@@ -6,9 +6,12 @@ draft: false
 featured: true
 weight: 1
 heroHeading: 'Kostenlose Beratung'
-heroSubHeading: 'Wir bieten kostenlose Beratungen'
+heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 ---
-Wenn Sie sich noch nicht sicher sind, ob Sie TFD Artworks beauftragen wollen, ist eine kostenlose Beratung genau das Richtige. Schreiben Sie uns eine E-Mail(Link!!) und vereinbaren Sie einen Termin oder schicken Sie uns Bilder Ihrer Wand mit Ihrem Designwunsch zu. 
-Unser Team wird so bereits ungefähr die Kosten und die Dauer, anhand der Größe der Wand und der komplexität Ihres Wunsches abschätzen können. Danach können Sie dann entscheiden, ob Sie TFD Artworks beauftragen wollen.
+Wenn Sie sich noch nicht sicher sind, ob Sie TFD Artworks beauftragen wollen, ist eine kostenlose Beratung genau das Richtige. Schreiben Sie uns eine E-Mail und vereinbaren Sie einen Termin oder schicken Sie uns Bilder Ihrer Wand mit Ihrem Designwunsch zu.
+
+## Was bringt das?
+
+Unser Team wird so bereits ungefähr die Kosten und die Dauer, die für die Umsetzung Ihres Wunsches nötig sind, abschätzen können. Genaueres zum Preis finden Sie unter "Konzeption & Planung". So helfen wir Ihnen sich einen Überblick zu verschaffen und erleichtern die Entscheidung.
 Wir freuen uns auf Sie!
