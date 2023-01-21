@@ -31,7 +31,7 @@ Wir bieten abseits von Auftragsmalerei auch Workshops für Kinder und Jugendlich
 *Inhalte können auf Nachfrage angepasst werden.*
 
 ## Preise
-Je nach Größe der Gruppe und der gewünschten Länge des Workshops handelt es sich um **5€ - 7€ pro Person**. Zur Verfügung gestellt werden von uns Spraycans in jeglichen Farben und Marker.
+Je nach Größe der Gruppe und der gewünschten Länge des Workshops handelt es sich um **6€ - 8€ pro Person**. Zur Verfügung gestellt werden von uns Spraycans in jeglichen Farben und Marker. Bei besonderen Wünschen für Farben und speziellen Motiven, können zusätzliche Materialkosten anfallen. Dies wird vorhinein abgeklärt.
 
 ## Ort
 In Berlin gibt es viele legal walls. Diese eignen sich perfekt als Übungsort für junge Writer. Per Email vereinbaren wir einen Treffpunkt an einer für Sie passenden Wall.
