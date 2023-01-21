@@ -16,7 +16,6 @@
 {{ end }}
 
 {{ define "main" }}
-
 {{ partial "hero-image-fullscreen.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 
 {{ $headless := .Site.GetPage "/homepage" }}
@@ -34,6 +33,18 @@
     </div>
   </div>
 </div>
+
+<script>
+  var elem = document.getElementById('home'); 
+
+  if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+      //  elem.style.backgroundImage = "url('/images/test.jpg')"
+      console.log("mobil")
+  }else{
+      console.log("not mobil")
+  }
+</script>
+
 {{ end }}
 
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
