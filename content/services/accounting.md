@@ -13,5 +13,5 @@ Wenn Sie sich noch nicht sicher sind, ob Sie TFD Artworks beauftragen wollen, is
 
 ## Was bringt das?
 
-Unser Team wird so bereits ungefähr die Kosten und die Dauer, die für die Umsetzung Ihres Wunsches nötig sind, abschätzen können. Genaueres zum Preis finden Sie unter "Konzeption & Planung". So helfen wir Ihnen sich einen Überblick zu verschaffen und erleichtern die Entscheidung.
-Wir freuen uns auf Sie!
+Unser Team wird so bereits ungefähr die Kosten und die Dauer, die für die Umsetzung Ihres Wunsches nötig sind, abschätzen können. Genaueres zum Preis finden Sie unter [Konzeption & Planung](/services/mergers/). So helfen wir Ihnen sich einen Überblick zu verschaffen und erleichtern die Entscheidung.
+

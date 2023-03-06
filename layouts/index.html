@@ -35,13 +35,14 @@
 </div>
 
 <script>
-  var elem = document.getElementById('home'); 
+  var elem = document.getElementById('index-bg'); 
 
   if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
-      //  elem.style.backgroundImage = "url('/images/test.jpg')"
+      elem.style.backgroundImage = "url('/images/P3.jpg')"
       console.log("mobil")
   }else{
       console.log("not mobil")
+      elem.style.backgroundImage = "url('/images/R14.jpeg')"
   }
 </script>
 

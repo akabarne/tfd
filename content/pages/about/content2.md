@@ -6,4 +6,4 @@ background: 'images/white.jpg'
 align: left
 ---
 
-Das Writer-Team von TFD Artworks besteht aus 2 motivierten und erfahrenen Künstlern. Bereits 3 Jahre sind sie in der Streetart Scene tätig. Neben Projekten, bieten sie auch Workshops für Einsteiger an. Durch ihre Erfahrung sind sie in der Lage sehr konzeptgetreu zu arbeiten, um bestmögliche Ergebnisse zu erziehlen. 
+Das Writer-Team von TFD Artworks besteht aus 3 motivierten und erfahrenen Künstlern. Bereits 3 Jahre sind wir in der Streetart Scene tätig. Neben Projekten, bieten wir auch Workshops für Einsteiger an. Durch ihre Erfahrung sind wir in der Lage sehr konzeptgetreu zu arbeiten, um bestmögliche Ergebnisse zu erziehlen. 

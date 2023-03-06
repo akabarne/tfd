@@ -15,10 +15,10 @@ theme = "hugo-hero-theme"
 
 
   [params.logo]
-    mobile = "TFD3M.svg" #images/logo-mobile.svg
+    mobile = "tfdb.svg" #images/logo-mobile.svg tfdb.svg
     mobile_height = "36px" #36px
     mobile_width = "36px" #36px
-    desktop = "TFD.svg" #images/logo.svg
+    desktop = "ttfd.png"
     desktop_height = "29px" #29px
     desktop_width = "217px"#217px
     alt = "Logo"

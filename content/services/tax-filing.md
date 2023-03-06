@@ -6,11 +6,11 @@ draft: false
 featured: true
 weight: 5
 heroHeading: 'Workshops'
-heroSubHeading: 'Graffiti Workshops für Kinder und Jugendliche'
+heroSubHeading: 'Graffiti Workshops für Intessierte'
 heroBackground: 'images/R51.jpeg' # services/service2.jpg
 ---
 
-Wir bieten abseits von Auftragsmalerei auch Workshops für Kinder und Jugendliche von 10 - 17 Jahren an. Den Kindern und Jugendlichen wird in unserem Workshop ein erster Einstieg in die Welt der Streetart geboten.
+Wir bieten abseits von Auftragsmalerei auch Workshops für Intressierte jeden Alters an. Hier gewähren wir Ihnen einen Einblick in die Welt der Streetart.
 
 ## Inhalt der Workshops
 #### Einführung
@@ -31,21 +31,21 @@ Wir bieten abseits von Auftragsmalerei auch Workshops für Kinder und Jugendlich
 *Inhalte können auf Nachfrage angepasst werden.*
 
 ## Preise
-Je nach Größe der Gruppe und der gewünschten Länge des Workshops handelt es sich um **6€ - 8€ pro Person**. Zur Verfügung gestellt werden von uns Spraycans in jeglichen Farben und Marker. Bei besonderen Wünschen für Farben und speziellen Motiven, können zusätzliche Materialkosten anfallen. Dies wird vorhinein abgeklärt.
+Zu bezahlen sind je nach Größe der Gruppe und der gewünschten Länge des Workshops die Materialkosten + **7€ pro Person**.Sprühdosen in den gewünschten Farben werden von uns zuvor eingekauft und zum vereinbarten Treffpunkt mitgebracht. 
 
 ## Ort
 In Berlin gibt es viele legal walls. Diese eignen sich perfekt als Übungsort für junge Writer. Per Email vereinbaren wir einen Treffpunkt an einer für Sie passenden Wall.
 
 ## Wie?
-Schreiben Sie und eine Email(Link) in der folgende Informationen enthalten sind:
+Schreiben Sie und eine [Email](/contact/) in der folgende Informationen enthalten sind:
 - Name der verantwortlichen Personen
-- Alter und Anzahl an Kindern und Jugendlichen
+- Alter und Anzahl an Interessierten
 - Zeitraum 
 - gewünschte Länge des Kurses
 
 Wir antworten so schnell wie möglich und teilen Ihnen weitere Informationen mit.
 
-Wir freuen uns auf Sie!
+Wir freuen uns auf Euch!
 
 
 

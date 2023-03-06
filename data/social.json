@@ -1,12 +1,7 @@
 [
     {
         "name": "Instagram",
-        "link": "",
-        "image": "social/github.svg"
-    },
-    {
-        "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
-        "image": "social/twitter.svg"
+        "link": "https://www.instagram.com",
+        "image": "images/lightinsta.png" 
     }
 ]
