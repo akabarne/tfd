@@ -1,7 +1,0 @@
-.hugo_build.lock
-.DS_Store
-node_modules
-.idea
-public
-resources
-local_git_config.sh
