@@ -1,6 +1,6 @@
 [build]
-  base = "desktop/"
-  publish = "WYR/"
+  base = "/"
+  publish = "/"
   command = "echo 'default context'"
 
 [build.environment]
