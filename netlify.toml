@@ -1,7 +1,6 @@
 [build]
-  base = "/"
-  publish = "/"
-  command = "echo 'default context'"
+  publish = "public"
+  command = "hugo"
 
 [build.environment]
   HUGO_VERSION = "0.95.0"
