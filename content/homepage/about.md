@@ -6,4 +6,4 @@ button: 'Über uns'
 buttonLink: 'about'
 ---
 
-Eine sehr sehr sehr schnelle und genaue Umsetzung des gemeinsam erarbeiteten Konzepts macht den Unterschied. Wir achten auf Ihre Wünsche!
+Eine schnelle und genaue Umsetzung des gemeinsam erarbeiteten Konzepts macht den Unterschied. Wir achten auf Ihre Wünsche!
