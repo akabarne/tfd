@@ -6,4 +6,4 @@ button: 'Projekte'
 buttonLink: 'work'
 ---
 
-Einige Projekte konnten durch unsere Writer bereits umgesetzt werden. Dabei wird genaustens auf eine Balance aus projektgerichteter Präzision und Geschwindigkeit geachtet. Bilder vergangener Projekte können in der jeweiligen Gallerie betrachtet werden!!
+Einige Projekte konnten durch unsere Writer bereits umgesetzt werden. Dabei wird genaustens auf eine Balance aus projektgerichteter Präzision und Geschwindigkeit geachtet. Bilder vergangener Projekte können in der jeweiligen Gallerie betrachtet werden!
