@@ -1,20 +1,16 @@
 ---
-title: '(1.Auftrag)'
+title: 'Evangelische Kirchengemeinde Berlin-Rudow'
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 1
-heroHeading: '(1.Auftrag)'
-heroSubHeading: ''
+heroHeading: 'Evangelische Kirchengemeinde Berlin-Rudow'
+heroSubHeading: 'Mauer auf dem Rudower Friedhofsgelände'
 heroBackground: 'images/first.jpg'
 thumbnail: 'images/R8.jpeg'
 images: ['images/ew.png','images/R14.jpeg', 
 'images/R2.jpeg','images/k.jpeg','images/R10.jpeg','images/R9.jpeg','images/R1.jpeg',]
 ---
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima. 
+Mitte Mai 2022 kam die evangelische Kirchengemeinde Berlin-Rudow auf uns zu, und bat uns, eine ca 60m² umfassende Mauer auf dem Rudower Friedhofsgelände zu gestalten.
+Das Motiv sollte sich aus einem Übergang zwischen Licht und Dunkel – Leben und Tod, und der Rudower Dorfkirche im Zentrum zusammensetzen.
+Auf Basis dieser Vorgaben erstellten wir ein erstes Konzept in Photoshop, welches wir später im Laufe unserer Arbeit durch weitere Details ergänzten. 
+Die Fertigstellung des Auftrags erfolgte gegen Mitte August, und nahm ca 60 Stunden reine Arbeitszeit mit der Dose in Anspruch.  
